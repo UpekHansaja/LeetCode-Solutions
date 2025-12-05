@@ -58,7 +58,7 @@ Each problem directory typically contains the following files:
 
 | Difficulty | Problem                   |    Status    |
 |------------|---------------------------|--------------|
-| Easy       | Add Two Integers          | ✅ Completed  |
+| Easy       | [Add Two Integers](Easy/AddTwoIntegers/)          | ✅ Completed  |
 | Easy       | (To be added)             | ⏳ In Progress|
 | Medium     | (To be added)             | ⏳ In Progress|
 | Hard       | (To be added)             | ⏳ In Progress|
