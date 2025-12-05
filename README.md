@@ -2,6 +2,9 @@
 
 This repository is designed to enhance analytical thinking and problem-solving skills through a series of exercises and challenges. All provided solutions are implemented using the Java programming language, offering clear and practical examples for learning and improvement.
 
+![Solution Master mindset illustration](https://file%2B.vscode-resource.vscode-cdn.net/Users/upekhansaja/Downloads/undraw_solution-mindset_pit7.png?version%3D1764957808892)
+
+
 ## Table of Contents
 - [LeetCode-Solutions](#leetcode-solutions)
   - [Table of Contents](#table-of-contents)
