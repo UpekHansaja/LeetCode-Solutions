@@ -61,7 +61,7 @@ Each problem directory typically contains the following files:
 
 | Difficulty | Problem                   |    Status    |
 |------------|---------------------------|--------------|
-| Easy       | [Add Two Integers](Easy/AddTwoIntegers/)          | ✅ Completed  |
+| Easy       | [Add Two Integers](Easy/Add-Two-Integers/)          | ✅ Completed  |
 | Easy       | [Root Equals Sum of Children](Easy/Root-Equals-Sum-of-Children/)             | ✅ Completed  |
 | Easy       | (To be added)             | ⏳ In Progress  |
 | Medium     | (To be added)             | ⏳ In Progress|
