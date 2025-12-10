@@ -63,6 +63,7 @@ Each problem directory typically contains the following files:
 |------------|---------------------------|--------------|
 | Easy       | [Add Two Integers](EASY/Add-Two-Integers/)          | ✅ Completed  |
 | Easy       | [Root Equals Sum of Children](EASY/Root-Equals-Sum-of-Children/)             | ✅ Completed  |
+| Easy       | [Running Sum of 1d Array](EASY/Running-Sum-of-1d-Array/)             | ✅ Completed  |
 | Easy       | (To be added)             | ⏳ In Progress  |
 | Medium     | (To be added)             | ⏳ In Progress|
 | Hard       | (To be added)             | ⏳ In Progress|
